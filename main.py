@@ -39,7 +39,7 @@ class BluetoothDeviceListFrame(wx.Frame):
 
         # Frame settings
         self.SetSize((340, 400))
-        self.SetTitle("Bluetooth Devices List")
+        self.SetTitle("bluetooth-helper v0.1")
         self.Centre()
 
         # Fetch devices
